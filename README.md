@@ -21,7 +21,7 @@ Next, install the necessary dependencies
 npm sequelize | npm bcryptjs | npm express | npm express-handlebars | npm session | npm passport | npm mysql
 
 ## Live Demo
-https://storventory.herokuapp.com/
+The demo of the application can be found [here](https://storventory.herokuapp.com/).
 
 ## License
 ![License](https://img.shields.io/badge/License-MIT%20License-green?style=flat-square.svg)
